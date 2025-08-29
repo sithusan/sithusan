@@ -1,6 +1,4 @@
 ### Hi there 👋
-### IF ONE DAY, I'M NO LONGER HERE IN PHYSICAL
-### THEN AT LEAST, I GIVE MY CODE TO WATCH IT ON !
 
 <!--
 **sithusan/sithusan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
